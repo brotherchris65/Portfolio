@@ -10,6 +10,11 @@ Nearly 5 million records in a very messy data set that included
   <li>Non-uniform station id's</li>
  </ul>
  This was just an exploration and putting together 12 data files
+ These files will require download as they are too big to view
+ https://github.com/brotherchris65/Portfolio/blob/main/Combine%20Data.html
+ https://github.com/brotherchris65/Portfolio/blob/main/Initial%20Evaluation.html
+ 
+ 
  
 
 ## Data cleaning exercise in using the diabetes.csv data from kaggle.com
