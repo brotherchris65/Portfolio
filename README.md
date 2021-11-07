@@ -1,5 +1,17 @@
 # Data Analysis Portfolio
 portfolio additions for data analysis
+## Google Data Analytics Project
+### CityBike Presentation
+<a href='https://docs.google.com/presentation/d/1C3lDXse1NKpaWCUbnjYd6fbAQZg2Hrpa77_f4Hn1edI/edit?usp=sharing'>Converting Casuals</a>
+Nearly 5 million records in a very messy data set that included
+<ul>
+  <li>Transposed times</li>
+  <li>Duplicate records numbers with different data (not actually duplicate records)</li>
+  <li>Non-uniform station id's</li>
+ </ul>
+ This was just an exploration and putting together 12 data files
+ 
+
 ## Data cleaning exercise in using the diabetes.csv data from kaggle.com
 ### Challenges
 <ul>
